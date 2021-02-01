@@ -10,8 +10,6 @@ A college student hoping to become a _web developer/software engineer_ in the fu
 - E-mail: juliuscecilia33@gmail.com
 
 ![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=tokyonight)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliuscecilia33)](https://github.com/juliuscecilia33/github-readme-stats)
 
 😄 Check out my most recent projects: 
 - [FA Outlets](https://faoutlets.netlify.app/)
