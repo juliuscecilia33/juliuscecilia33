@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there! I'm Julius 👋
+
+- GitHub: You are here!
+- LinkedIn: [julius-cecilia](https://www.linkedin.com/in/julius-cecilia/)
+- E-mail: juliuscecilia33@gmail.com
+
+![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=tokyonight)
+
 
 <!--
 **juliuscecilia33/juliuscecilia33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
