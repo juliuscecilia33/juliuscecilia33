@@ -13,7 +13,8 @@ A college student hoping to become a _web developer/software engineer_ in the fu
 - [FA Outlets - An E-commerce Store for Food Allergy manufacturers and products](https://faoutlets.netlify.app/)
 
 🔭 I’m currently working on:
-- Finishing [InstaDeck](https://github.com/juliuscecilia33/instadeck)! 🃏📷
+- [InstaDeck](https://github.com/juliuscecilia33/instadeck)! 🃏📷
+- [ReThink](https://github.com/juliuscecilia33/ReThink-Frontend)
 
 🌱 I’m currently learning:
 - React.js! ⚛️
