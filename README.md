@@ -12,6 +12,12 @@ A college student hoping to become a _web developer/software engineer_ in the fu
 😄 Check out my most recent projects: 
 - [FA Outlets - An E-commerce Store for Food Allergy manufacturers and products](https://faoutlets.netlify.app/)
 
+🔭 I’m currently working on:
+- Finishing [InstaDeck](https://github.com/juliuscecilia33/instadeck)! 🃏📷
+
+🌱 I’m currently learning:
+- React.js! ⚛️
+
 ![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=tokyonight)
 
 <!--
