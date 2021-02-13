@@ -4,6 +4,9 @@
 
 A college student hoping to become a _web developer/software engineer_ in the future! 
 
+⌛ Check out my portfolio: 
+- Coming soon 👀
+
 📫 How to reach me:
 - GitHub: You are here!
 - LinkedIn: [julius-cecilia](https://www.linkedin.com/in/julius-cecilia/)
