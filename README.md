@@ -1,25 +1,25 @@
-# Hi there! I'm Julius 👋
+# Hi there! I'm Julius <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi">
 
 <kbd><img src="https://i.imgur.com/ecJ4KyR.jpg" width="400" height="400" border-radius="50%"></kbd>
 
 A college student hoping to become a _web developer/software engineer_ in the future! 
 
-⌛ Check out my portfolio: 
+## ⌛ Check out my portfolio: 
 - Coming soon 👀
 
-📫 How to reach me:
+## 📫 How to reach me:
 - GitHub: You are here!
 - LinkedIn: [julius-cecilia](https://www.linkedin.com/in/julius-cecilia/)
 - E-mail: juliuscecilia33@gmail.com
 
-😄 Check out my most recent projects: 
+## 😄 Check out my most recent projects: 
 - [FA Outlets - An E-commerce Store for Food Allergy manufacturers and products](https://faoutlets.netlify.app/)
 
-🔭 I’m currently working on:
+## 🔭 I’m currently working on:
 - [InstaDeck](https://github.com/juliuscecilia33/instadeck)! 🃏📷
 - [ReThink](https://github.com/juliuscecilia33/ReThink-Frontend) 🇷🇪💭
 
-🌱 I’m currently learning:
+## 🌱 I’m currently learning:
 - React.js! ⚛️
 
 ![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=tokyonight)
