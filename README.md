@@ -1,4 +1,4 @@
-# Hi there! I'm Julius  👋
+# 👋 Hi there! I'm Julius  
 
 <kbd><img src="https://i.imgur.com/ecJ4KyR.jpg" width="400" height="400" border-radius="50%"></kbd>
 
