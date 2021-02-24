@@ -14,6 +14,7 @@ A college student hoping to become a _web developer/software engineer_ in the fu
 
 ## 😄 Check out my most recent projects: 
 - [FA Outlets - An E-commerce Store for Food Allergy manufacturers and products](https://faoutlets.netlify.app/)
+- [CycleScan - Recycling cross-platform mobile application using object recognition.](https://github.com/bkenza/CycleScan)
 
 ## 🔭 I’m currently working on:
 - [InstaDeck](https://github.com/juliuscecilia33/instadeck)! 🃏📷
