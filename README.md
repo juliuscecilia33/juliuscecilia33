@@ -18,7 +18,7 @@ A college student hoping to become a _web developer/software engineer_ in the fu
 
 ## 🔭 I’m currently working on:
 - [InstaDeck](https://github.com/juliuscecilia33/instadeck)! 🃏📷
-- [ReThink](https://github.com/juliuscecilia33/ReThink-Frontend) 🇷🇪💭
+- [ReThink](https://github.com/ReThink-SUB/ReThink) 🇷🇪💭
 - [Portfolio](https://github.com/juliuscecilia33/Portfolio)🔗📑
 
 ## 🌱 I’m currently learning:
