@@ -22,7 +22,7 @@ A college student hoping to become a _web developer/software engineer_ in the fu
 - [Portfolio](https://github.com/juliuscecilia33/Portfolio)🔗📑
 
 ## 🌱 I’m currently learning:
-- React.js! ⚛️
+- Next.js!🧭
 
 ![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=tokyonight)
 
