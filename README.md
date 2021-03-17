@@ -5,7 +5,7 @@
 A college student hoping to become a _web developer/software engineer_ in the future! 
 
 ## ⌛ Check out my portfolio: 
-- https://juliuscecilia.netlify.app/ 
+- Portfolio: https://juliuscecilia.netlify.app/ 
 
 ## 📫 How to reach me:
 - GitHub: You are here!
