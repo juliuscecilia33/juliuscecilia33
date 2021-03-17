@@ -5,7 +5,7 @@
 A college student hoping to become a _web developer/software engineer_ in the future! 
 
 ## ⌛ Check out my portfolio: 
-- Coming soon 👀
+- https://juliuscecilia.netlify.app/ 
 
 ## 📫 How to reach me:
 - GitHub: You are here!
@@ -15,11 +15,11 @@ A college student hoping to become a _web developer/software engineer_ in the fu
 ## 😄 Check out my most recent projects: 
 - [FA Outlets - An E-commerce Store for Food Allergy manufacturers and products](https://faoutlets.netlify.app/)
 - [CycleScan - Recycling cross-platform mobile application using object recognition.](https://github.com/bkenza/CycleScan)
+- [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://juliuscecilia.netlify.app/)
 
 ## 🔭 I’m currently working on:
 - [InstaDeck](https://github.com/juliuscecilia33/instadeck)! 🃏📷
 - [ReThink](https://github.com/ReThink-SUB/ReThink) 🇷🇪💭
-- [Portfolio](https://github.com/juliuscecilia33/Portfolio)🔗📑
 
 ## 🌱 I’m currently learning:
 - Next.js!🧭
