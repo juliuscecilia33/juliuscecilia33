@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Julius  
-
 ![Portfolio](https://github.com/juliuscecilia33/Portfolio/blob/main/public/images/Banner.png)
+
+# 👋 Hi there! I'm Julius  
 
 A college student hoping to become a _web developer/software engineer_ in the future! 
 
