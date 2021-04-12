@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Julius  
 
-<kbd><img src="https://i.imgur.com/ecJ4KyR.jpg" width="400" height="400" border-radius="50%"></kbd>
+![Portfolio](https://github.com/juliuscecilia33/Portfolio/blob/main/public/images/Banner.png)
 
 A college student hoping to become a _web developer/software engineer_ in the future! 
 
