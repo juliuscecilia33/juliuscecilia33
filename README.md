@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Julius  
 
-A college student hoping to become a _web developer/software engineer_ in the future! 
+A college student hoping to become a _software engineer_ in the future! 
 
 ## ⌛ Check out my portfolio: 
 - Portfolio: https://juliuscecilia.netlify.app/ 
