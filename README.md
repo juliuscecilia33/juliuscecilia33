@@ -23,7 +23,6 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 
 ## 🔭 I’m currently working on:
 - [Joblicant](https://github.com/juliuscecilia33/Joblicant) 👔👩‍💻
-- [FAInitiative](https://github.com/juliuscecilia33/FAInitiative) 🍍🚀
 
 ## 🌱 I’m currently learning:
 - Python!🧭
