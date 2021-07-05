@@ -18,12 +18,15 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 - [CycleScan - Recycling cross-platform mobile application using object recognition.](https://github.com/bkenza/CycleScan)
 - [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://juliuscecilia.netlify.app/)
 
+## 📊 Other repositories:
+- [FAInitiative - A reddit-inspired hub that connects people with food allergies and allows assemblies or posts to be created](https://github.com/juliuscecilia33/FAInitiative)
+
 ## 🔭 I’m currently working on:
-- [ReThink](https://github.com/ReThink-SUB/ReThink) 🇷🇪💭
+- [Joblicant](https://github.com/juliuscecilia33/Joblicant) 👔👩‍💻
 - [FAInitiative](https://github.com/juliuscecilia33/FAInitiative) 🍍🚀
 
 ## 🌱 I’m currently learning:
-- Next.js!🧭
+- Python!🧭
 
 ![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=tokyonight)
 
