@@ -20,6 +20,7 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 
 ## 📊 Other repositories:
 - [FAInitiative - A reddit-inspired hub that connects people with food allergies and allows assemblies or posts to be created](https://github.com/juliuscecilia33/FAInitiative)
+- [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://github.com/juliuscecilia33/Portfolio)
 
 ## 🔭 I’m currently working on:
 - [Joblicant](https://github.com/juliuscecilia33/Joblicant) 👔👩‍💻
