@@ -23,7 +23,8 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 [![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=Portfolio&theme=vue)](https://github.com/juliuscecilia33/Portfolio)
 
 ## 🔭 I’m currently working on:
-- [Joblicant](https://github.com/juliuscecilia33/Joblicant) 👔👩‍💻
+[![Joblicant Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=Joblicant&theme=vue)](https://github.com/juliuscecilia33/Joblicant)
+
 
 ## 🌱 I’m currently learning:
 - Python!🧭
