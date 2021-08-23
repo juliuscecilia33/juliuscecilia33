@@ -19,8 +19,8 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 - [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://juliuscecilia.netlify.app/)
 
 ## 📊 Other repositories:
-- [FAInitiative - A reddit-inspired hub that connects people with food allergies and allows assemblies or posts to be created](https://github.com/juliuscecilia33/FAInitiative)
-- [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://github.com/juliuscecilia33/Portfolio)
+[![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue)](https://github.com/juliuscecilia33/FAInitiative)
+[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=Portfolio&theme=vue)](https://github.com/juliuscecilia33/Portfolio)
 
 ## 🔭 I’m currently working on:
 - [Joblicant](https://github.com/juliuscecilia33/Joblicant) 👔👩‍💻
@@ -28,7 +28,9 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 ## 🌱 I’m currently learning:
 - Python!🧭
 
-![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=tokyonight)
+![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=vue-dark)
+
+
 
 <!--
 **juliuscecilia33/juliuscecilia33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
