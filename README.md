@@ -20,7 +20,6 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 
 ## 📊 Other repositories:
 [![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue-dark)](https://github.com/juliuscecilia33/FAInitiative)
-[![Portfolio Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=Portfolio&theme=vue-dark)](https://github.com/juliuscecilia33/Portfolio)
 
 ## 🔭 I’m currently working on:
 [![Joblicant Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=Joblicant&theme=vue-dark)](https://github.com/juliuscecilia33/Joblicant)
