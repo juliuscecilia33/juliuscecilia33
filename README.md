@@ -15,6 +15,7 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 ## 😄 Check out my most recent projects: 
 - [InstaDeck - A semi-dashboard interface of Instagram (Beta release)](https://instadeck.netlify.app/)
 - [FA Outlets - An E-commerce Store for Food Allergy manufacturers and products](https://faoutlets.netlify.app/)
+- [Joblicant - A dashboard interface showcasing all your job applications in one place](https://github.com/juliuscecilia33/Joblicant)
 - [CycleScan - Recycling cross-platform mobile application using object recognition.](https://github.com/bkenza/CycleScan)
 - [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://juliuscecilia.netlify.app/)
 
@@ -22,7 +23,6 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 [![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue-dark)](https://github.com/juliuscecilia33/FAInitiative)
 
 ## 🔭 I’m currently working on:
-[![Joblicant Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=Joblicant&theme=vue-dark)](https://github.com/juliuscecilia33/Joblicant)
 
 
 ## 🌱 I’m currently learning:
