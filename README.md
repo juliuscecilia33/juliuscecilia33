@@ -23,7 +23,7 @@ An incoming sophmore in college hoping to become a _software engineer_ in the fu
 [![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue-dark)](https://github.com/juliuscecilia33/FAInitiative)
 
 ## 🔭 I’m currently working on:
-
+- Unreleased project! 👀
 
 ## 🌱 I’m currently learning:
 - Python!🧭
