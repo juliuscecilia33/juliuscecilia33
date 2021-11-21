@@ -32,7 +32,7 @@ A sophmore in college hoping to become a _software engineer_ in the future!
 - Unreleased project! 👀
 
 ## 🌱 I’m currently learning:
-- Python!🧭
+- Java! 🧭
 
 ![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=vue-dark)
 
