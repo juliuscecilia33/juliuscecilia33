@@ -18,6 +18,7 @@ A sophmore in college hoping to become a _software engineer_ in the future!
 - [Joblicant - A dashboard interface showcasing all your job applications in one place](https://github.com/juliuscecilia33/Joblicant)
 - [CycleScan - Recycling cross-platform mobile application using object recognition.](https://github.com/bkenza/CycleScan)
 - [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://juliuscecilia.netlify.app/)
+- [Vending Machine - Based off of _Hello Code's Article_](https://github.com/juliuscecilia33/VendingMachine)
 
 ## 📸 Check out my new Youtube Video: 
 - [Building a Web Application w/ React.js, PostgreSQL, Node.js, and Express.js (PERN) - Cohyve Ep. 1](https://www.youtube.com/watch?v=PzsS2CdiKMQ&ab_channel=CreatedByJulius)
