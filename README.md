@@ -13,7 +13,7 @@ A sophmore in college hoping to become a _software engineer_ in the future!
 - E-mail: juliuscecilia33@gmail.com
 
 ## 😄 Check out my most recent projects: 
-- [InstaDeck - A semi-dashboard interface of Instagram (Beta release)](https://instadeck.netlify.app/)
+- [InstaDeck - A semi-dashboard interface of Instagram](https://instadeck.netlify.app/)
 - [FA Outlets - An E-commerce Store for Food Allergy manufacturers and products](https://faoutlets.netlify.app/)
 - [Joblicant - A dashboard interface showcasing all your job applications in one place](https://github.com/juliuscecilia33/Joblicant)
 - [CycleScan - Recycling cross-platform mobile application using object recognition.](https://github.com/bkenza/CycleScan)
