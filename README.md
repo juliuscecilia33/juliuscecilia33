@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Julius  
 
-A sophmore in college hoping to become a _software engineer_ in the future! 
+A sophmore in college wanting to make the world a better place!
 
 ## ⌛ Check out my portfolio: 
 - Portfolio: https://juliuscecilia.netlify.app/ 
