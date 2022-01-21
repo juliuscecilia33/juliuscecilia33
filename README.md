@@ -18,19 +18,12 @@ A sophmore in college wanting to make the world a better place!
 - [Joblicant - A dashboard interface showcasing all your job applications in one place](https://github.com/juliuscecilia33/Joblicant)
 - [CycleScan - Recycling cross-platform mobile application using object recognition.](https://github.com/bkenza/CycleScan)
 - [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://juliuscecilia.netlify.app/)
-- [Vending Machine - Based off of _Hello Code's Article_](https://github.com/juliuscecilia33/VendingMachine)
-
-## 📸 Check out my new Youtube Video: 
-- [Building a Web Application w/ React.js, PostgreSQL, Node.js, and Express.js (PERN) - Cohyve Ep. 1](https://www.youtube.com/watch?v=PzsS2CdiKMQ&ab_channel=CreatedByJulius)
-
-## 🎞️ Check out my Youtube Channel: 
-- [CreatedByJulius](https://www.youtube.com/channel/UCn8D_nwYkMdQzZ4C_yvyDxg)
 
 ## 📊 Other repositories:
 [![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue-dark)](https://github.com/juliuscecilia33/FAInitiative)
 
 ## 🔭 I’m currently working on:
-- Cohyve 👀
+- Unreleased project! 👀
 
 ## 🌱 I’m currently learning:
 - Java! 🧭
