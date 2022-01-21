@@ -30,7 +30,7 @@ A sophmore in college wanting to make the world a better place!
 [![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue-dark)](https://github.com/juliuscecilia33/FAInitiative)
 
 ## 🔭 I’m currently working on:
-- Unreleased project! 👀
+- Cohyve 👀
 
 ## 🌱 I’m currently learning:
 - Java! 🧭
