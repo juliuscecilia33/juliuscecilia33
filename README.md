@@ -28,8 +28,6 @@ A Senior in college wanting to make the world a better place!
 ## 🌱 I’m currently learning:
 - Java! 🧭
 
-![Julius' GitHub stats](https://github-readme-stats.vercel.app/api?username=juliuscecilia33&show_icons=true&theme=vue-dark)
-
 
 
 <!--
