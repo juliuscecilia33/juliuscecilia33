@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Julius  
 
-A Senior in college wanting to make the world a better place!
+A newly grad wanting to make the world a better place through Software Engineering.
 
 ## ⌛ Check out my portfolio: 
 - Portfolio: https://juliuscecilia.netlify.app/ 
@@ -23,7 +23,7 @@ A Senior in college wanting to make the world a better place!
 [![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue-dark)](https://github.com/juliuscecilia33/FAInitiative)
 
 ## 🔭 I’m currently working on:
-- Leaps! 👀
+- Sage, a note-taking app, built on Next.js, Supabase, GraphQL, and Prisma.
 
 ## 🌱 I’m currently learning:
 - Java! 🧭
