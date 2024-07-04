@@ -8,7 +8,7 @@ A newly grad wanting to make the world a better place through Software Engineeri
 - Portfolio: https://juliuscecilia.netlify.app/
 
 ## ✍️ My Blogs
-- Medium: https://medium.com/@juliuscecilia33/building-real-time-typing-indicators-in-java-19e245539794
+- Medium: https://medium.com/@juliuscecilia33
 
 ## 📫 How to reach me:
 - GitHub: You are here!
