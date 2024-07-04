@@ -5,7 +5,10 @@
 A newly grad wanting to make the world a better place through Software Engineering.
 
 ## ⌛ Check out my portfolio: 
-- Portfolio: https://juliuscecilia.netlify.app/ 
+- Portfolio: https://juliuscecilia.netlify.app/
+
+## ✍️ My Blogs
+- Medium: https://medium.com/@juliuscecilia33/building-real-time-typing-indicators-in-java-19e245539794
 
 ## 📫 How to reach me:
 - GitHub: You are here!
