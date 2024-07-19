@@ -5,7 +5,7 @@
 A newly grad wanting to make the world a better place through Software Engineering.
 
 ## ⌛ Check out my portfolio: 
-- Portfolio: https://juliuscecilia.netlify.app/
+- Portfolio: https://juliuscecilia.vercel.app/
 
 ## ✍️ My Blogs
 - Medium: https://medium.com/@juliuscecilia33
