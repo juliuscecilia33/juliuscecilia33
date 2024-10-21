@@ -26,10 +26,10 @@ A newly grad wanting to make the world a better place through Software Engineeri
 [![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue-dark)](https://github.com/juliuscecilia33/FAInitiative)
 
 ## 🔭 I’m currently working on:
-- [Sage, a note-taking app, built on Next.js, Supabase, GraphQL, and Prisma](https://github.com/juliuscecilia33/Sage)
+- [Sage, a mobile app, built on React Native, Golang, Docker, PostgreSQL](https://github.com/juliuscecilia33/sagev2)
 
 ## 🌱 I’m currently learning:
-- Java and Python! 🧭
+- Golang! 🧭
 
 
 
