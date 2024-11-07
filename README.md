@@ -13,7 +13,7 @@ A newly grad wanting to make the world a better place through Software Engineeri
 ## 📫 How to reach me:
 - GitHub: You are here!
 - LinkedIn: [julius-cecilia](https://www.linkedin.com/in/julius-cecilia/)
-- E-mail: juliuscecilia33@gmail.com
+- E-mail: juliuscecilia33@outlook.com 
 
 ## 😄 Check out my most recent projects: 
 - [InstaDeck - A semi-dashboard interface of Instagram](https://instadeck.netlify.app/)
