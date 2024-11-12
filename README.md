@@ -15,16 +15,6 @@ A newly grad wanting to make the world a better place through Software Engineeri
 - LinkedIn: [julius-cecilia](https://www.linkedin.com/in/julius-cecilia/)
 - E-mail: juliuscecilia33@outlook.com 
 
-## 😄 Check out my most recent projects: 
-- [InstaDeck - A semi-dashboard interface of Instagram](https://instadeck.netlify.app/)
-- [FA Outlets - An E-commerce Store for Food Allergy manufacturers and products](https://faoutlets.netlify.app/)
-- [Joblicant - A dashboard interface showcasing all your job applications in one place](https://github.com/juliuscecilia33/Joblicant)
-- [CycleScan - Recycling cross-platform mobile application using object recognition.](https://github.com/bkenza/CycleScan)
-- [Portfolio - My Portfolio showcasing all of my recent projects and experiences!](https://juliuscecilia.netlify.app/)
-
-## 📊 Other repositories:
-[![FAInitiative Card](https://github-readme-stats.vercel.app/api/pin/?username=juliuscecilia33&repo=FAInitiative&theme=vue-dark)](https://github.com/juliuscecilia33/FAInitiative)
-
 ## 🔭 I’m currently working on:
 - [Sage, a mobile app, built on React Native, Golang, Docker, PostgreSQL](https://github.com/juliuscecilia33/sagev2)
 
