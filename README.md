@@ -16,7 +16,8 @@ A newly grad wanting to make the world a better place through Software Engineeri
 - E-mail: juliuscecilia33@outlook.com 
 
 ## 🔭 I’m currently working on:
-- [Sage, a mobile app, built on React Native, Golang, Docker, PostgreSQL](https://github.com/juliuscecilia33/sagev2)
+- [Backend = Sage, a mobile app, built on React Native, Golang, Docker, PostgreSQL](https://github.com/juliuscecilia33/sagev2)
+- [Frontend = Sage, a mobile app, built on React Native, Golang, Docker, PostgreSQL](https://github.com/juliuscecilia33/sagev2-mobile)
 
 ## 🌱 I’m currently learning:
 - Golang! 🧭
