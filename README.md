@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Julius  
 
-A newly grad wanting to make the world a better place through Software Engineering.
+A Software Engineer wanting to make the world a better place through an app or website.
 
 ## ⌛ Check out my portfolio: 
 - Portfolio: https://juliuscecilia.vercel.app/
@@ -11,13 +11,12 @@ A newly grad wanting to make the world a better place through Software Engineeri
 - Medium: https://medium.com/@juliuscecilia33
 
 ## 📫 How to reach me:
-- GitHub: You are here!
 - LinkedIn: [julius-cecilia](https://www.linkedin.com/in/julius-cecilia/)
-- E-mail: juliuscecilia33@outlook.com 
+- E-mail: juliusscecilia33@gmail.com
 
 ## 🔭 I’m currently working on:
-- [Backend = Sage, a mobile app, built on React Native, Golang, Docker, PostgreSQL](https://github.com/juliuscecilia33/sagev2)
-- [Frontend = Sage, a mobile app, built on React Native, Golang, Docker, PostgreSQL](https://github.com/juliuscecilia33/sagev2-mobile)
+- [🥕 Dine is a cross-platform mobile application designed to make living with food allergies safer and easier, built on React Native, Typescript, PostgreSQL](https://github.com/SageDevelopmentCode/dineapp)
+- [🌐 Dine Web is the public/private profile component of the Dine food allergy management ecosystem](https://github.com/SageDevelopmentCode/dine-web)
 
 ## 🌱 I’m currently learning:
 - Golang! 🧭
