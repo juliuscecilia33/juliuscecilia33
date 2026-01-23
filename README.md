@@ -5,7 +5,7 @@
 A Software Engineer wanting to make the world a better place through an app or website.
 
 ## ⌛ Check out my portfolio: 
-- Portfolio: https://juliuscecilia.vercel.app/
+- Portfolio: [https://www.juliuscecilia.com/](https://www.juliuscecilia.com/)
 
 ## ✍️ My Blogs
 - Medium: https://medium.com/@juliuscecilia33
