@@ -14,10 +14,6 @@ A Software Engineer wanting to make the world a better place through an app or w
 - LinkedIn: [julius-cecilia](https://www.linkedin.com/in/julius-cecilia/)
 - E-mail: juliusscecilia33@gmail.com
 
-## 🔭 I’m currently working on:
-- [🥕 Dine is a cross-platform mobile application designed to make living with food allergies safer and easier, built on React Native, Typescript, PostgreSQL](https://github.com/SageDevelopmentCode/dineapp)
-- [🌐 Dine Web is the public/private profile component of the Dine food allergy management ecosystem](https://github.com/SageDevelopmentCode/dine-web)
-
 ## 🌱 I’m currently learning:
 - Golang! 🧭
 
